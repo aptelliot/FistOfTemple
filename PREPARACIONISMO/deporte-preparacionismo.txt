@@ -1,5 +1,6 @@
-🎖️ "No entrenes “como Rambo”, entrena como soldado veterano"
-  
+ ==================================================================
+  | 🎖️ "No entrenes “como Rambo”, entrena como soldado veterano" |
+ ==================================================================
         
     PRINCIPIOS DEL ENTRENAMIENTO (importante)      
     ------------------------------------------------------------------
@@ -12,7 +13,12 @@
           
     👉 Entrenamos 5 días, 2 de fuerza, 2 mixtos, 1 de resistencia larga.
     👉 Fines de semana libres o movilidad suave.
-        
+
+    🔧 CÓMO USAR TUS PESOS (MUY IMPORTANTE)
+    15 kg → brazos, hombros, técnica
+    35 kg → peso muerto, farmer carry, zancadas
+    No persigas el máximo, persigue control
+
     **********************************************************************
      PLAN SEMANAL (≤ 60 min)
     **********************************************************************
@@ -39,7 +45,7 @@ Caminata rápida en cinta: 5 min
 👉 Aquí empieza el crecimiento de pecho y tríceps.
 
 - Finisher - 5 min
-    1. Farmer carry medio – 2×40 s
+    1. Farmer carry medio (35kg) – 2×40 s
 
 
 ======================================================================
@@ -51,8 +57,8 @@ Caminata rápida en cinta: 5 min
     1. Remo inclinado – 10
     2. Curl bíceps – 8–10
     3. Curl martillo – 8
-    4. Peso muerto – 6–8
-    5. Farmer carry – 30–60 s
+    4. Peso muerto (35kg) – 6–8
+    5. Farmer carry (35kg) – 30–60 s
 
 👉 El bíceps crece cuando la espalda trabaja fuerte.
 
@@ -93,10 +99,10 @@ Caminata rápida en cinta: 5 min
 🎯 Preparacionismo real
 
 - Circuito funcional (4 rondas)
-    1. Peso muerto – 5
+    1. Peso muerto (35 kg) – 5
     2. Clean & press – 6
     3. Zancadas – 10 por pierna
-    4. Farmer carry largo
+    4. Farmer carry largo (35kg)
     5. Core
 
 - Movimientos militares con arma de entrada a edificios - (20 min)
@@ -105,14 +111,18 @@ Caminata rápida en cinta: 5 min
 - 20 min movilidad militar
 
 
+======================================================================
+[ S A B A D O (opcional) - 🟡 DÍA 6 – RESISTENCIA LARGA + MENTE ]:
+⏱ 45–55 min
+🎯 Caminata militar
 
-🟡 FIN DE SEMANA (OPCIONAL, MUY PREPARACIONISTA)
-Caminata larga con mochila 10–20 kg
-Movilidad + estiramientos
-Nada de machacarte
+- Caminar largas distancias en marcha verde solo con mochilar militar marron (10-20 kg)
 
-🔧 CÓMO USAR TUS PESOS (MUY IMPORTANTE)
-15 kg → brazos, hombros, técnica
-35 kg → peso muerto, farmer carry, zancadas
-No persigas el máximo, persigue control
+
+======================================================================
+[ D O M I N G O (opcional) - 🟡 DÍA 7 – RESISTENCIA LARGA + MENTE ]:
+⏱ 45–55 min
+🎯 Caminata militar
+
+- Caminar largas distancias en marcha verde solo con mochilar militar marron (10-20 kg)
 
