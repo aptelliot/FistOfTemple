@@ -1,3 +1,5 @@
+## R E C E T A S · C A S E R A S 
+
 ======================================================================
 [🍚 Arroz blanco para dos personas]:
 
@@ -27,6 +29,15 @@
 - Para saber si están hechas, pruebo una: si está blanda, ya están.
 - Apago el fuego (0/6) y dejo reposar unos minutos antes de servir.
 
+
+
+
+
+
+
+
+
+## C H A T G P T 
 
 ======================================================================
 [🥬 Verduras salteadas dos personas]:
@@ -94,6 +105,13 @@
 - Pescado al horno o sartén: Filetes con sal, limón y aceite, 8–10 min.
 
 
+
+
+
+
+
+## C H A T G P T · J A P O N E S
+
 ======================================================================
 [🍜 Fideos y arroz japoneses dos personas]:
 
@@ -127,7 +145,7 @@
 
 
 ======================================================================
-[🥢 Tamago (tortilla japonesa dulce) dos personas]:
+[🥢 Extras “japoneses”]:
 
 - Tamago (tortilla japonesa dulce): Huevo batido con un poco de azúcar, cocinado en sartén a fuego medio, enrollando en capas.
 - Yakimeshi (arroz frito japonés): Arroz blanco cocido, huevo, verduras, un poco de soja y aceite, salteado rápido en sartén.
